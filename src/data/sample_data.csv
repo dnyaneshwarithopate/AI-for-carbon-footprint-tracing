@@ -1,0 +1,6 @@
+user_id,electricity_kwh,miles_driven,diet_score,flights_hours,total_emissions
+1,300,800,3,4,621.2
+2,450,1200,1,12,1530.0
+3,200,200,5,0,235.0
+4,600,1500,2,8,1296.0
+5,150,50,5,2,135.0
