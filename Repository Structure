@@ -1,0 +1,10 @@
+ai-carbon-footprint-tracker/
+├── src/
+│   ├── app.py                # Streamlit web app
+│   ├── carbon_calculator.py  # Core emission calculation logic
+│   └── data/
+│       └── sample_data.csv   # Example dataset
+├── requirements.txt          # Dependencies
+├── Dockerfile                # Containerization
+├── README.md                 # Project documentation
+└── .gitignore
